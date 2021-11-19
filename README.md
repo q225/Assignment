@@ -1,12 +1,14 @@
-# THEATRE WEBSITE
+THEATRE WEBSITE
 
  
 
 Page One
-![alt text](https://drive.google.com/file/d/1mbNknC1i0yD9jtSg7XpjPlloBlIF7H3g/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1nJzjYQGPF4miMu1Uz8icRvUQDY_3-7nT/view?usp=sharing)
 
 Page Two
-![alt text](https://i.ibb.co/nPf0HM6/screencapture-movie-seat-booking-2021-netlify-app-booking-html-2021-02-20-15-10-05.png)
+![alt text](https://drive.google.com/file/d/1dUiiZgg3Qp5sIJhbHKaKWNKBqXSRyWo1/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1fZm010gayI9N90VMYdswoFTa5mAvhlFF/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1HyULEhT2ywOTQem8zmqiQV-gVAWHDe_i/view?usp=sharing)
 
 Page Three
-![alt text](https://i.ibb.co/gS51gCY/screencapture-movie-seat-booking-2021-netlify-app-2021-02-20-15-10-20.png)
+![alt text](https://drive.google.com/file/d/19Y938IdFl_EdCem5MJ88ELhhMjZnfY_R/view?usp=sharing)
