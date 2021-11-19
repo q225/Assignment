@@ -1,12 +1,43 @@
-# movie-seat-booking
+##Assignment Report 
 
-Live Project View : https://movie-seat-booking-2021.netlify.app/
+Name: Abhay Singh
 
-Page One
-![alt text](https://i.ibb.co/PCJk7Gc/screencapture-movie-seat-booking-2021-netlify-app-playing-html-2021-02-20-15-10-33.png)
+Reg. No.: 11904269
 
-Page Two
-![alt text](https://i.ibb.co/nPf0HM6/screencapture-movie-seat-booking-2021-netlify-app-booking-html-2021-02-20-15-10-05.png)
+Course Code: INT219
 
-Page Three
-![alt text](https://i.ibb.co/gS51gCY/screencapture-movie-seat-booking-2021-netlify-app-2021-02-20-15-10-20.png)
+Assignment Description:
+
+I was assigned to a Project related web development, and the topic for the website is “Theatre”.
+
+So, I have created a website which can be used by the local theatres to improve their reach to their customers.
+
+I have made the frontend part of the website in 3 parts:
+
+1.Home Page
+
+\2. Seat Booking Page
+
+\3. Going on and Upcoming Movies List Page
+
+Home Page looks like this:
+
+
+
+It contains a side logo mark on the top left corner, which can be the USP for any local theatre, the home page has two buttons in it 
+
+1. Buy Ticket
+1. Now Playing
+
+Let’s press Buy Ticket button:
+
+This is Seat booking page, where we can select movies as per our choice and we can also see their prices.
+
+Here we can also allocate the seats of our choice.
+
+
+
+Let’s press, Now Playing button. This Is how this page looks.
+
+
+
